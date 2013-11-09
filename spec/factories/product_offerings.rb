@@ -2,7 +2,7 @@
 
 FactoryGirl.define do
   factory :product_offering do
-    membership_id 1
-    product_id 1
+    membership
+    product
   end
 end
